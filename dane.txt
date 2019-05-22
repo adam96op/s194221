@@ -1,0 +1,4 @@
+ Wybralem takie hobby, poniewaz wydaje mi sie najbardziej interesujace
+
+.git/
+echo > dane.txt  Wybralem takie hobby, poniewaz wydaje mi sie najbardziej interesujace
