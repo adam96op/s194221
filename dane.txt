@@ -2,3 +2,4 @@
 
 .git/
 echo > dane.txt  Wybralem takie hobby, poniewaz wydaje mi sie najbardziej interesujace
+Moim hobby jest sport
